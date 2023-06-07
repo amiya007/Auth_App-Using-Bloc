@@ -1,7 +1,14 @@
 # auth_app using Bloc
 
 This app is a simple authentication app that authenticate the user with Firebase and save data to Cloud Storage.
-The whole project is done with the BLoC(Business Logic Component), rather than a typicl Flutter project.
+The whole project is done with the BLoC(Business Logic Component), rather than a typical Flutter project.
+
+## Download APK
+
+You can download the latest version of the APK from the following link:
+
+[Download APK](https://drive.google.com/uc?export=download&id=1xebgZcfstuuqrvLMz5aRonJ3XMVnrKUZ) &#x2193;
+
 
 
 A few resources to get you started if this is your first Flutter project:
